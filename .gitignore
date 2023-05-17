@@ -1,0 +1,11 @@
+#Node Modules
+node_modules/
+
+#Dist
+dist/
+
+#Tokens
+.env
+
+#db
+src/domain/database/database.json
